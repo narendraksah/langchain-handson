@@ -13,6 +13,7 @@ dependencies = [
     "langchain-google-genai>=4.2.1",
     "langchain-pinecone>=0.2.13",
     "langchain-tavily>=0.2.17",
+    "langgraph>=1.0.10",
     "langsmith>=0.7.11",
     "ollama>=0.6.1",
     "pydantic>=2.12.5",
